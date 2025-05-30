@@ -1,8 +1,8 @@
-Olá, sou [Seu Nome]! 👋
+Olá, meu nome é Lucca Samuel! 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, com foco principal em desenvolvimento backend. Minha stack principal é Java, mas também trabalho com PHP e JavaScript, além de alguns projetos de frontend utilizando JavaScript.
 
-Sobre mim
+Sobre mim:
 
 
 
@@ -46,27 +46,9 @@ Outras ferramentas: Git, Docker, MySQL, PostgreSQL, MongoDB
 
 Metodologias: Agile, TDD, Clean Code
 
-Meus projetos
-
-Aqui estão alguns destaques dos meus repositórios:
 
 
-
-
-
-[Projeto Backend em Java]: Uma API RESTful construída com Spring Boot para [descreva brevemente o propósito do projeto].
-
-
-
-[Projeto Backend em PHP]: Um sistema [descreva brevemente, ex.: de gerenciamento de conteúdo] utilizando Laravel.
-
-
-
-[Projeto Frontend em JS]: Uma aplicação web interativa feita com [React/Vue.js/plain JS] para [descreva o propósito].
-
-
-
-[Projeto Fullstack]: Um projeto que combina backend em Java/PHP com frontend em JavaScript.
+Arquiteturas:layers architecture, Clean clean architecture, hexagonal architecture, Microservices
 
 Confira meus repositórios abaixo para explorar mais! 👇
 
