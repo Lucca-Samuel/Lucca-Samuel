@@ -58,18 +58,11 @@ Como me encontrar
 
 
 
-📧 E-mail: [seu.email@exemplo.com]
+📧 E-mail: samuellucca1002@gmail.com
 
 
 
-💼 LinkedIn: [link do seu LinkedIn]
+💼 LinkedIn: www.linkedin.com/in/lucca-samuel-souza
 
-
-
-🌐 Portfólio: [link do seu portfólio, se aplicável]
-
-
-
-🐦 X: [seu usuário no X, se aplicável]
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato se quiser colaborar ou conversar sobre tecnologia! 😄
